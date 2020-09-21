@@ -1,5 +1,5 @@
 # helloword
 
-Esse é o meu primeiro codigo GitHub.
+Este é o meu primeiro codigo gitHub.
 
-by Kauan Brites.
+por: Mariana Alice Benites Barboza
